@@ -1,0 +1,30 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  color: Khaki;
+  font-weight: bold;
+  font-size: 100px;
+  text-align: center;
+  background-image: url('file:///D:/Projects/Dasmotos/resources/images/pattern.jpeg');
+}
+
+h2 {
+  color: White;
+  font-size: 32px;
+}
+
+strong {
+  color: Blue;
+}
+
+#brushes h2 {
+  background-color: MediumSpringGreen;
+}
+#frames h2 {
+  background-color: LightCoral;
+}
+#paint h2 {
+  background-color: SkyBlue;
+}
